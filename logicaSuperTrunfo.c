@@ -154,6 +154,7 @@ int main()
         {
             printf("Resultado: 🤝🤝🤝 Empate nos pontos turísticos! 🤝🤝🤝\n");
         }
+        break;
     case 5:
         // Comparação por Densidade Demográfica
         printf("\n--- Atributo: Densidade Demográfica ---\n");
@@ -171,6 +172,7 @@ int main()
         {
             printf("Resultado: 🤝🤝🤝 Empate na densidade demográfica! 🤝🤝🤝\n");
         }
+        break;
 
     default:
         printf("Opção inválida! Por favor, escolha um número entre 1 e 5.\n");
